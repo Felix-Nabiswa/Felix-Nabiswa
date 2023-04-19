@@ -1,6 +1,6 @@
 ### Hi there 👋, Felix Nabiswa
 #### I am an aspiring software engineer.
-![I am an aspiring software engineer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am an aspiring software engineer.]
 
 I am a data analyst in training, currently pursuing a degree in Computer Science at Kibo School of Technology. I am passionate about working with data to gain insights and solve problems.
 
