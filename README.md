@@ -1,4 +1,4 @@
-### Hi there 👋, Felix Nabiswa
+###Felix Nabiswa
 #### I am an aspiring software engineer.
 ![I am an aspiring software engineer.]
 
