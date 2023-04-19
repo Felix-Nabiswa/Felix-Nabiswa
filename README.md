@@ -1,5 +1,5 @@
 
-#### Hi there!, I am Felix Nabiswa an aspiring software engineer.
+## Hi there!, I am Felix Nabiswa an aspiring software engineer.
 
 ### About Me
 I am a data analyst in training, currently pursuing a degree in Computer Science at Kibo School of Technology. I am passionate about working with data to gain insights and solve problems.
