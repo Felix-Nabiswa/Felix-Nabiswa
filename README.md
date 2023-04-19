@@ -6,7 +6,7 @@ I am a data analyst in training, currently pursuing a degree in Computer Science
 
 ### Skills
 
-*Proficient in Excel, Intermediate in SQL and Python. *Familiar with data visualization tools PowerBI. *Experience with data cleaning, data manipulation, and data analysis. *Strong attention to detail and problem-solving skills
+* Proficient in Excel, Intermediate in SQL and Python. * Familiar with data visualization tools PowerBI. * Experience with data cleaning, data manipulation, and data analysis. * Strong attention to detail and problem-solving skills
 ### Projects
 
 
