@@ -9,7 +9,6 @@ I am a computer science student at Kibo School of Technology, passionate about d
 * A good understanding of Python, Flask, JavaScript, HTML, and CSS.
 * Intermediate knowledge of SQL and data manipulation.
 * Experienced in data cleaning, analysis, and visualization using tools like Excel and Power BI.
-* 
 * Strong attention to detail and problem-solving skills
 ###
 
