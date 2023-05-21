@@ -1,12 +1,12 @@
 
-## Hi there!, I am Felix Nabiswa a training software engineer.
+## Hi there! I'm Felix Nabiswa, a Software Engineer in training.
 
 ### About Me
 I am a computer science student at Kibo School of Technology, passionate about data analytics and problem-solving. Currently pursuing a degree in Computer Science, I have a strong foundation in Python, Flask, JavaScript, HTML, and CSS programming languages. My focus is on building data tools and leveraging Python and data analysis to drive meaningful impact.
 
 ### Skills
 
-* A good understanding of Python, Flask, JavaScript, HTML, and CSS.
+* I have a strong command of Python, Flask, JavaScript, HTML, and CSS.
 * Intermediate knowledge of SQL and data manipulation.
 * Experienced in data cleaning, analysis, and visualization using tools like Excel and Power BI.
 * Strong attention to detail and problem-solving skills
